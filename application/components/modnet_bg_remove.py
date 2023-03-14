@@ -169,9 +169,6 @@ class MODNetBGRemove():
 
         path = os.path.join(output_path, name)
 
-        print("saving new image "+name)
-
-
         try:
             matte = cv2.cvtColor(matte, cv2.COLOR_RGB2BGR)
             cv2.imwrite(path, matte)

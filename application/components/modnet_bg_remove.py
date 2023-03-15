@@ -175,4 +175,3 @@ class MODNetBGRemove():
             return "Successfully saved {}".format(path), name
         except:
             return "Error while saving {}".format(path), ''
-

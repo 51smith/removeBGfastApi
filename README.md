@@ -22,3 +22,5 @@ start the server:
 python main.py
 ```
 
+## Contributing Projects
+https://github.com/DeepranjanG/Image_Background_Removal

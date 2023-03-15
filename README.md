@@ -3,7 +3,7 @@ Create a new conda environment (in anaconda) for fastapi project, for Pyhton 3.8
 
 Active the environment: 
 ```
-conda activate /Users/s.l.smith/opt/anaconda3/envs/fastApiProject
+conda activate /path/to/your/anaconda3/envs/fastApiProject
 ```
 
 Install dependencies for this environment:
